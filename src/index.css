@@ -230,7 +230,7 @@ body::-webkit-scrollbar {
   }
 
   .testimonials-section {
-    @apply bg-milk relative w-full h-[120dvh] max-lg:top-[140dvh];
+    @apply bg-milk relative w-full h-[120dvh];
 
     .pin-box {
       @apply flex items-center justify-center w-full ps-52 absolute xl:bottom-32 bottom-[50vh];
